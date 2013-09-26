@@ -5,7 +5,11 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
+<<<<<<< HEAD
 	<ProjectGuid>{20550821-2494-05AC-A0CA-D6A88B93F3E8}</ProjectGuid>
+=======
+	<ProjectGuid>{8DAD718C-24C6-1ED5-1399-220A6DC5216C}</ProjectGuid>
+>>>>>>> 70c9c41926c5206f6a7c1df737b27f973e0da301
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -37,6 +41,7 @@
     <Reference Include="System.XML" />
 	<Reference Include="System.Core" />
 	<Reference Include="UnityEngine">
+<<<<<<< HEAD
 	  <HintPath>C:/Users/31M/Documents/Prog/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
 	</Reference>
 	<Reference Include="UnityEditor">
@@ -45,6 +50,16 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CubeScript.cs" />
+=======
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Scripts\ChangeColor.cs" />
+>>>>>>> 70c9c41926c5206f6a7c1df737b27f973e0da301
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
