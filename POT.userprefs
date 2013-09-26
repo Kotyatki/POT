@@ -1,8 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\Public\Documents\Unity Projects\Mine\Assets\Scripts\Mine.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CubeScript.cs">
     <Files>
-      <File FileName="..\..\..\..\Public\Documents\Unity Projects\Mine\Assets\Scripts\Mine.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\Public\Documents\Unity Projects\SideScroller\Assets\Scripts\Runner.cs" Line="39" Column="69" />
+      <File FileName="Assets\Scripts\CubeScript.cs" Line="20" Column="19" />
+      <File FileName="..\..\..\..\Public\Documents\Unity Projects\Mine\Assets\Scripts\Mine.cs" Line="18" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
